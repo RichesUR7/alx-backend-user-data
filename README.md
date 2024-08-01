@@ -35,23 +35,23 @@ To get started with this repository, follow these steps:
 
 1. Clone the repository:
 
-	git clone https://github.com/yourusername/alx-backend-user-data.git
+		git clone https://github.com/yourusername/alx-backend-user-data.git
 
 2. Navigate to the project directory:
 	
-	cd alx-backend-user-data
+		cd alx-backend-user-data
 
 3. Install the necessary dependencies:
 
-	pip install -r requirements.txt
+		pip install -r requirements.txt
 
 4. Set up the database:
 
-	python manage.py migrate
+		python manage.py migrate
 
 5. Run the development server:
 
-	python manage.py runserver
+		python manage.py runserver
 
 ## Usage
 
@@ -64,15 +64,15 @@ Contributions are welcome! If you would like to contribute to this project, plea
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
 
-	git checkout -b feature/your-feature-name
+		git checkout -b feature/your-feature-name
 
 3. Commit your changes.
 
-	git commit -m 'Add some feature'
+		git commit -m 'Add some feature'
 
 4. Push to the branch.
 
-	git push origin feature/your-feature-name
+		git push origin feature/your-feature-name
 
 5. Create a new Pull Request.
 
